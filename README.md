@@ -78,4 +78,4 @@ Once,the employee name is reflected delete respective employee data.
 Log is created once 'Successfully Deleted' message pops up on the page.
 
 
-This accomplishes the project.
+
